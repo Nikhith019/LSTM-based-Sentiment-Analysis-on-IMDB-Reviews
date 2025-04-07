@@ -26,4 +26,3 @@ After training, we evaluate the model by generating a confusion matrix and class
 
 Precision-Recall Tradeoff: In sentiment classification, precision and recall need to be balanced. Precision indicates how many predicted positives were correct, while recall measures how many actual positives were captured.
 
-
