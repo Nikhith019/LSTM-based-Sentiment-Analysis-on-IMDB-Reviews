@@ -1,12 +1,3 @@
-# Home_Assignment-3
-
-## Student Details
-Name : Nikhith Raju Konduru
-
-700   : 700756171
-
-crn   : 23849
-
 ## To run this file clone this repo and download the necessary files to execute
 
 ## Explanation of Tasks:
@@ -26,6 +17,5 @@ After training, we evaluate the model by generating a confusion matrix and class
 
 Precision-Recall Tradeoff: In sentiment classification, precision and recall need to be balanced. Precision indicates how many predicted positives were correct, while recall measures how many actual positives were captured.
 
-## Video Link:
-https://drive.google.com/file/d/1imU_IX9tW6mwtZn2vS1TpCY5JK3F2AW7/view?usp=share_link
+
 
